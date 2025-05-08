@@ -1,0 +1,80 @@
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(7,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  digitalWrite(7,HIGH);
+  delay(7000);
+// I გაკვეთილის შესასვლელი ზარი დაირეკა 
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// I გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(300000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// II გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// II გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(300000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// III გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// III გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(600000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// IV გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// IV გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(600000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// V გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// V გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(600000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// VI გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// VI გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(600000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// VII გაკვეთილის შესასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(2700000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+// VII გაკვეთილის გამოსასვლელი ზარი დაირეკა
+  digitalWrite(7,LOW);
+  delay(600000);
+  digitalWrite(7,HIGH);
+  delay(7000);
+}
