@@ -44,7 +44,7 @@ void loop() {
   delay(7000);
 // IV გაკვეთილის გამოსასვლელი ზარი დაირეკა
   digitalWrite(7,LOW);
-  delay(600000);
+  delay(300000);
   digitalWrite(7,HIGH);
   delay(7000);
 // V გაკვეთილის შესასვლელი ზარი დაირეკა
@@ -54,7 +54,7 @@ void loop() {
   delay(7000);
 // V გაკვეთილის გამოსასვლელი ზარი დაირეკა
   digitalWrite(7,LOW);
-  delay(600000);
+  delay(300000);
   digitalWrite(7,HIGH);
   delay(7000);
 // VI გაკვეთილის შესასვლელი ზარი დაირეკა
@@ -64,7 +64,7 @@ void loop() {
   delay(7000);
 // VI გაკვეთილის გამოსასვლელი ზარი დაირეკა
   digitalWrite(7,LOW);
-  delay(600000);
+  delay(300000);
   digitalWrite(7,HIGH);
   delay(7000);
 // VII გაკვეთილის შესასვლელი ზარი დაირეკა
@@ -74,7 +74,7 @@ void loop() {
   delay(7000);
 // VII გაკვეთილის გამოსასვლელი ზარი დაირეკა
   digitalWrite(7,LOW);
-  delay(600000);
+  delay(300000);
   digitalWrite(7,HIGH);
   delay(7000);
 }
